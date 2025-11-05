@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Archivos de IntelliJ
+.idea/
+*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+*.class
