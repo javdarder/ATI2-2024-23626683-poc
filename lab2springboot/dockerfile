@@ -1,0 +1,13 @@
+# Imagen compatible con ARM64 (Mac M1/M2/M3)
+FROM amazoncorretto:17-alpine
+
+WORKDIR /app
+
+# Copiar el JAR
+COPY build/libs/lab2springboot-0.0.1-SNAPSHOT.jar app.jar
+
+# Exponer puerto
+EXPOSE 8080
+
+# Ejecutar aplicación
+ENTRYPOINT ["java", "-jar", "app.jar"]
