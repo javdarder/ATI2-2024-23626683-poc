@@ -35,3 +35,37 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Gradle
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+*.swp
+*.swo
+*~
+
+# Mac
+.DS_Store
+
+# Spring Boot
+.springBeans
+spring-boot-devtools.properties
