@@ -1,0 +1,70 @@
+Reto 05: Test-Driven Development con Vue.js
+
+Estudiante: Javier Darder
+Cédula: 23626683
+Curso: Aplicaciones con Tecnología Internet II
+
+========================================
+ENTREGABLES
+========================================
+
+1. Repositorio GitHub (rama reto5):
+   https://github.com/javdarder/ATI2-2024-23626683-poc/tree/reto5
+
+2. Video de demostración: https://youtu.be/ExtzvrLFzv0
+
+========================================
+CONTENIDO DEL REPOSITORIO
+========================================
+
+- Código fuente completo del proyecto Vue.js
+- 7 tests unitarios con Vitest
+- Componente Calculator implementado con TDD
+- Cobertura de código: 90.47%
+- README.md con documentación detallada
+- Screenshots del proceso
+
+========================================
+TECNOLOGÍAS UTILIZADAS
+========================================
+
+- Vue.js 3.5.22
+- Vitest 3.2.4
+- Vue Test Utils 2.4.6
+- Node.js 20.19.5
+- Vite 7.x
+
+========================================
+TESTS IMPLEMENTADOS
+========================================
+
+✅ Renderizado del componente
+✅ Valor inicial en 0
+✅ Suma de números (5 + 3 = 8)
+✅ Resta de números (10 - 4 = 6)
+✅ Multiplicación de números (7 × 6 = 42)
+✅ División de números (20 ÷ 4 = 5)
+✅ Manejo de división por cero (error)
+
+========================================
+CONCLUSIONES
+========================================
+
+1. TDD mejora significativamente la calidad del código al:
+   - Definir requisitos antes de implementar
+   - Detectar bugs tempranamente
+   - Facilitar refactoring seguro
+   - Servir como documentación ejecutable
+
+2. Vitest es una excelente herramienta para testing en Vue:
+   - Más rápido que Jest
+   - Integración nativa con Vite
+   - API familiar para quienes conocen Jest
+
+3. La cobertura de 90%+ da confianza en la estabilidad del código
+   y facilita el mantenimiento a futuro.
+
+4. TDD es especialmente útil para componentes con lógica clara
+   y predecible, como validaciones, cálculos y gestión de estado.
+
+========================================
