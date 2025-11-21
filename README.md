@@ -6,7 +6,7 @@ Implementación de componente Calculator con Test-Driven Development (TDD) usand
 
 ## Información del Estudiante
 
-- **Nombre:** Javier Arderí
+- **Nombre:** Javier Darder
 - **Cédula:** 23626683
 - **Curso:** Aplicaciones con Tecnología Internet II
 
@@ -119,23 +119,9 @@ Calculator.vue: 90.47% de cobertura
 - **Interfaz responsive:** se adapta a diferentes tamaños de pantalla
 - **Diseño moderno:** gradientes, sombras y animaciones
 
-## Capturas de Pantalla
-
-### Interfaz de Usuario
-
-![Calculator UI](screenshots/calculator-ui.png)
-
-### Tests Pasando
-
-![Tests Passing](screenshots/tests-passing.png)
-
-### Cobertura de Código
-
-![Code Coverage](screenshots/coverage-report.png)
-
 ## Video de Demostración
 
-**URL del video:** [Agregar URL después de subirlo]
+**URL del video:** https://youtu.be/ExtzvrLFzv0
 
 El video incluye:
 
