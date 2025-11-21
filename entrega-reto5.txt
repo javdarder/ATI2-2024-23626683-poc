@@ -8,10 +8,12 @@ Curso: Aplicaciones con Tecnología Internet II
 ENTREGABLES
 ========================================
 
-1. Repositorio GitHub (rama reto5):
+1. Laboratorio esta en la rama reto3: https://github.com/javdarder/ATI2-2024-23626683-poc/tree/reto3
+
+2. Repositorio GitHub (rama reto5):
    https://github.com/javdarder/ATI2-2024-23626683-poc/tree/reto5
 
-2. Video de demostración: https://youtu.be/ExtzvrLFzv0
+3. Video de demostración: https://youtu.be/ExtzvrLFzv0
 
 ========================================
 CONTENIDO DEL REPOSITORIO
